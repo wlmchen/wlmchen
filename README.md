@@ -9,7 +9,10 @@
       <a href="https://neovim.io/">
 	<img src="/img/neovim.png" style="vertical-align:top; margin:6px 4px">
       </a>
+      <a href="https://vscodium.com/">
+        <img src="/img/vscodium.png" style="vertical-align:top; margin:6px 4px">
+      </a>
    </p>
 
 
-[![pryme-svg's github stats](https://github-readme-stats.vercel.app/api?username=pryme-svg)](https://github.com/anuraghazra/github-readme-stats)
+[![pryme-svg's github stats](https://github-readme-stats.vercel.app/api?username=pryme-svg&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
