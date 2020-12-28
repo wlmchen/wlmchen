@@ -18,4 +18,4 @@
    </p>
 
 
-[![pryme-svg's github stats](https://github-readme-stats.vercel.app/api?username=pryme-svg&theme=dark&show_icons=true)]
+![pryme-svg's github stats](https://github-readme-stats.vercel.app/api?username=pryme-svg&theme=dark&show_icons=true)
