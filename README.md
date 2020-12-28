@@ -1,5 +1,8 @@
 <h1 align="center">pryme-svg</h1><br>
    <p align="center">
+      <a href="https://gentoo.org/">
+        <img src="/img/gentoo.png" style="vertical-align:top; margin:6px 4px">
+      </a>
       <a href="https://archlinux.org/">
 	<img src="/img/arch.png" style="vertical-align:top; margin:6px 4px">
       </a>
