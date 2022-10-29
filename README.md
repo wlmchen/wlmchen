@@ -1,5 +1,5 @@
 <h1 align="center">Hi</h1><br>
-   <p align="center">
+<!--    <p align="center">
       <a href="https://gentoo.org/">
         <img src="/img/gentoo.png" style="vertical-align:top; margin:6px 4px">
       </a>
@@ -31,7 +31,7 @@
       </a>
       <a href="https://en.wikipedia.org/wiki/Markdown">
          <img src="/img/md.png" style="vertical-align:top; margin; 6px 4px">
-      </a>
+      </a> -->
 
 
 
